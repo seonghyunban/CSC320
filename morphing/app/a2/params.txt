@@ -1,0 +1,8 @@
+Verbose Mode = False
+Bilinear = False
+Vectorize = False
+Supersampling = False
+Param a = 0.0010
+Param b = 1.6000
+Param p = 0.5000
+Param t = 1.000
